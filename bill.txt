@@ -1,0 +1,5 @@
+Order: 2 Client: 1 Date: Mon Jun 20 23:31:02 EEST 2022
+MenuItem{title='Duck Breast and Frisée Salad ', rating=5.0, calories=499, proteins=21, fats=35, sodium=642, price=75}
+MenuItem{title='Duck Breast and Frisée Salad ', rating=5.0, calories=499, proteins=21, fats=35, sodium=642, price=75}
+MenuItem{title='Sweet Potato Macaroni and Cheese ', rating=4.375, calories=660, proteins=33, fats=53, sodium=4520, price=70}
+MenuItem{title='Lobster with Roasted Garlic-Potato Salad and Coleslaw ', rating=3.75, calories=838, proteins=15, fats=61, sodium=316, price=30}
